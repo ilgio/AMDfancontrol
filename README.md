@@ -1,6 +1,9 @@
 #============================================================
+
 #= AMDfancontrol.sh v0.2 created by ilgio                   =
+
 #============================================================
+
 
 Adjust AMD GPU fan speeds according to card temperatures.
 Note that this script is intended to be run routinely from root's crontab.
